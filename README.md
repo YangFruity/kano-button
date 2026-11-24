@@ -1,6 +1,5 @@
 # 鹿乃按钮 / Kano按钮 / Kano Button
 
-##### 项目地址: http://kano.zone/
 
 ### 相关链接：
 - [鹿乃的Bilibili直播间](https://live.bilibili.com/15152878)
